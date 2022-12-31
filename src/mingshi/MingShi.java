@@ -1,5 +1,10 @@
 package mingshi;
 
+/**
+ * @author spy
+ * @version 1.0
+ * @since 1.0
+ */
 public class MingShi {
 	public double health;
 	public double attack;

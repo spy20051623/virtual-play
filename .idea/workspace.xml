@@ -2,12 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4b4e643-5a60-4a44-a6e4-6f4eb1354d21" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jineng/beidong/BeiDong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jineng/juexing/JueXing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/jineng/pugong/PuGong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/AttributeIncompatibleException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/AttributeNumberException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zhuangbei/Attributes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zhuangbei/MainAttribute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zhuangbei/SecondaryAttribute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zhuangbei/ZhuangBei.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mingshi/Mingshi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mingshi/MingShi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jineng/beidong/BeiDong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jineng/beidong/BeiDong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jineng/juexing/JueXing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jineng/juexing/JueXing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jineng/pugong/PuGong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/jineng/pugong/PuGong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mingshi/MingShi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mingshi/MingShi.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,12 +25,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://C:/Program Files/Java/jdk-16.0.1/lib/src.zip!/java.base/java/lang/Exception.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -40,6 +52,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -53,7 +66,20 @@
       <updated>1666856933023</updated>
       <workItem from="1666856934578" duration="2961000" />
       <workItem from="1666864013603" duration="200000" />
-      <workItem from="1666864229288" duration="8142000" />
+      <workItem from="1666864229288" duration="8266000" />
+      <workItem from="1667233589086" duration="123000" />
+      <workItem from="1667929136023" duration="12000" />
+      <workItem from="1667929187844" duration="4000" />
+      <workItem from="1668695514175" duration="47000" />
+      <workItem from="1668695573589" duration="222000" />
+      <workItem from="1669911114952" duration="25000" />
+      <workItem from="1671089329524" duration="78000" />
+      <workItem from="1671697381080" duration="126000" />
+      <workItem from="1671697561557" duration="2192000" />
+      <workItem from="1671699786035" duration="8066000" />
+      <workItem from="1671783591707" duration="2325000" />
+      <workItem from="1672471823304" duration="361000" />
+      <workItem from="1672472284323" duration="46000" />
     </task>
     <task id="LOCAL-00001" summary="项目创建">
       <created>1666863853959</created>
@@ -69,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666865275897</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="名士基本属性完成">
+      <created>1666879340172</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666879340172</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,6 +110,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="项目创建" />
-    <option name="LAST_COMMIT_MESSAGE" value="项目创建" />
+    <MESSAGE value="名士基本属性完成" />
+    <option name="LAST_COMMIT_MESSAGE" value="名士基本属性完成" />
   </component>
 </project>
